@@ -1,0 +1,15 @@
+build/
+out/
+result/
+
+CMakeUserPresets.json
+CMakeLists.txt.user
+
+.vs/
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+
+.DS_Store
+
