@@ -1,0 +1,3 @@
+[submodule "external/PCSC"]
+	path = external/PCSC
+	url = git@github.com:LudovicRousseau/PCSC.git
